@@ -1,0 +1,51 @@
+User Name : harikrishnan
+Timestamp : Tue Jan 13 12:21:44 AM IST 2026
+-----------------------------------------
+Total Number Of Processes Running : 323
+-----------------------------------------
+    PID COMMAND         %CPU
+   4774 firefox         12.3
+   5206 Isolated Web Co  7.5
+   2419 gnome-shell      7.2
+   8509 Isolated Web Co  6.6
+   8056 kgx              1.9
+   2518 ibus-daemon      0.1
+   4977 Privileged Cont  0.1
+   5809 Isolated Servic  0.1
+     16 rcu_preempt      0.1
+   9221 kworker/u48:3-e  0.1
+=========================================
+User Name : harikrishnan
+Timestamp : Tue Jan 13 01:20:14 PM IST 2026
+-----------------------------------------
+Total Number Of Processes Running : 328
+-----------------------------------------
+    PID COMMAND         %CPU
+   4465 firefox          5.4
+   2360 gnome-shell      3.2
+   9000 Isolated Web Co  1.9
+   4919 Isolated Web Co  1.8
+   6011 kgx              1.0
+  12574 kworker/u49:2-i  0.1
+   4679 Privileged Cont  0.1
+   5308 Isolated Servic  0.1
+   3061 blueman-tray     0.1
+   2462 ibus-daemon      0.0
+=========================================
+User Name : harikrishnan
+Timestamp : Tue Jan 13 01:57:06 PM IST 2026
+-----------------------------------------
+Total Number Of Processes Running : 328
+-----------------------------------------
+    PID COMMAND         %CPU
+   4465 firefox          5.1
+   2360 gnome-shell      3.1
+   9000 Isolated Web Co  2.4
+   4919 Isolated Web Co  1.6
+   6011 kgx              1.0
+   4679 Privileged Cont  0.1
+   5308 Isolated Servic  0.1
+   3061 blueman-tray     0.1
+  12983 kworker/u49:2-i  0.0
+   2462 ibus-daemon      0.0
+=========================================

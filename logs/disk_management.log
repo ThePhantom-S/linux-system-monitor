@@ -1,0 +1,136 @@
+========================================
+Timestamp : 2026-01-12 23:42:44
+User      : harikrishnan
+Threshold : 20%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  201K  233K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-12 23:46:29
+User      : harikrishnan
+Threshold : 20%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  201K  233K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-12 23:46:40
+User      : harikrishnan
+Threshold : 20%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  201K  233K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-12 23:46:58
+User      : harikrishnan
+Threshold : 20%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  201K  233K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-12 23:52:30
+User      : harikrishnan
+Threshold : 20%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  201K  233K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-12 23:52:47
+User      : harikrishnan
+Threshold : 20%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  201K  233K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-13 00:18:06
+User      : harikrishnan
+Threshold : 20%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  201K  233K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-13 00:19:07
+User      : harikrishnan
+Threshold : 20%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  201K  233K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-13 00:19:38
+User      : harikrishnan
+Threshold : 20%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  201K  233K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-13 13:10:34
+User      : harikrishnan
+Threshold : 20%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  202K  232K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-13 13:11:11
+User      : harikrishnan
+Threshold : 20%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  202K  232K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-13 13:13:37
+User      : harikrishnan
+Threshold : 78%
+Status    : OK
+All filesystems below threshold
+========================================
+Timestamp : 2026-01-13 13:13:50
+User      : harikrishnan
+Threshold : 18%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  202K  232K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-13 13:13:59
+User      : harikrishnan
+Threshold : 5%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  202K  232K  47% /sys/firmware/efi/efivars
+/dev/nvme0n1p7 1022M   65M  958M   7% /boot
+========================================
+Timestamp : 2026-01-13 13:20:24
+User      : harikrishnan
+Threshold : 5%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  202K  232K  47% /sys/firmware/efi/efivars
+/dev/nvme0n1p7 1022M   65M  958M   7% /boot
+========================================
+Timestamp : 2026-01-13 13:56:50
+User      : harikrishnan
+Threshold : 25%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+efivarfs        438K  202K  232K  47% /sys/firmware/efi/efivars
+========================================
+Timestamp : 2026-01-13 13:56:57
+User      : harikrishnan
+Threshold : 5%
+Status    : WARNING
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p8  197G   44G  143G  24% /
+efivarfs        438K  202K  232K  47% /sys/firmware/efi/efivars
+/dev/nvme0n1p7 1022M   65M  958M   7% /boot
