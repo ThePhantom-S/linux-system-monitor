@@ -11,7 +11,7 @@ echo "MemTotal (kB): $MemTotal"
 echo "Available Percent: $available_percent%"
 
 if [ "$available_percent" -lt "$THRESHOLD" ]; then
-	echo "status : Warning"
+	echo "status : WARNING"
 	exit 1
 else
 	echo "Status : OK"
